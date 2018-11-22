@@ -1,0 +1,16 @@
+{
+  "name": "ts2",
+  "version": "1.1.1",
+  "description": "this is example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gal amouyal",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6",
+    "webpack": "^4.26.0"
+  }
+}
